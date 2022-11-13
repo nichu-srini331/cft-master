@@ -1,0 +1,67 @@
+body{
+  background-image: url(cft.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+Form{
+  width: 330px; 
+  border-radius: 10px;
+  padding: 40px 30px;
+  margin-top: 80px;
+  margin-left: 345px;
+  background-color: transparent;
+  box-shadow: -3px -3px 9px #7ce3e3,
+  3px 3px 9px rgba(154, 196, 238, 0.671);
+}
+h1{
+  color: #7ce3e3;
+  font-weight: 100;
+  margin-top: -20px;
+  text-shadow: 2px 2px 6px#7ce3e3;
+}
+.mb-4{
+  width: 200px;
+  height: 20px;
+  border-radius: 5px;
+  border-color: white;
+}
+.mb-3{
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  color: #e0e0e0;
+}
+.mb-5{
+    background-image: linear-gradient(to right, #02AAB0 0%, #00CDAC  51%, #02AAB0  100%);
+    margin: 20px;
+    padding: -15px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    background-size: 200% auto;
+    color: white; 
+    width: 100px;
+    height: 30px;    
+    left: -20px !important;    
+    border-radius: 10px;
+    border-color: #02AAB0;
+  }
+
+  .box{
+    width: 330px;
+    height: 200px; 
+    border-radius: 10px;
+    padding: 40px 30px;
+    margin-top: 150px;
+    margin-left: 345px;
+    background-color: transparent;
+    box-shadow: -3px -3px 9px #7ce3e3,
+    3px 3px 9px rgba(154, 196, 238, 0.671);
+  }
+h2{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-size: 20px;
+  color: #e0e0e0;
+}
+h3{
+  color: #e0e0e0;
+}
